@@ -10,3 +10,8 @@ A very simple explanation: **Encrypt texts.**
 - [Windows](https://dotnet.microsoft.com/download?initial-os=windows)
 - [Linux](https://dotnet.microsoft.com/download?initial-os=linux)
 - [macOS](https://dotnet.microsoft.com/download?initial-os=macos)
+## Example
+Password: 12345
+
+Encrypted Text: MvzBxpjrUcEiPlNSpujcR/ZpbiKIHkzYfh/nlayVjvagjB7VwSlVqICR/8zsjxJePsk19OIs8yvWj+7WF7fzZqFCBoWe3ZGgHPH+bDvvEHoRHQfZlO2/bW0IDW1TAS51
+> You can decrypt this encrypted text using Decryptor.
