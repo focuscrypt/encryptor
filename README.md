@@ -14,4 +14,4 @@ A very simple explanation: **Encrypt texts.**
 Password: 12345
 
 Encrypted Text: MvzBxpjrUcEiPlNSpujcR/ZpbiKIHkzYfh/nlayVjvagjB7VwSlVqICR/8zsjxJePsk19OIs8yvWj+7WF7fzZqFCBoWe3ZGgHPH+bDvvEHoRHQfZlO2/bW0IDW1TAS51
-> You can decrypt this encrypted text using Decryptor.
+> You can decrypt this encrypted text using [Decryptor](https://GitHub.com/focuscrypt/decryptor).
