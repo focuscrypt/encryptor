@@ -11,7 +11,13 @@ A very simple explanation: **Encrypt texts.**
 - [Linux](https://dotnet.microsoft.com/download?initial-os=linux)
 - [macOS](https://dotnet.microsoft.com/download?initial-os=macos)
 ## Example
-Password: 12345
+<details>
+<summary> Password</summary>
+12345
+</details>
+<details>
+<summary> Encrypted Text</summary>
+MvzBxpjrUcEiPlNSpujcR/ZpbiKIHkzYfh/nlayVjvagjB7VwSlVqICR/8zsjxJePsk19OIs8yvWj+7WF7fzZqFCBoWe3ZGgHPH+bDvvEHoRHQfZlO2/bW0IDW1TAS51
+</details>
 
-Encrypted Text: MvzBxpjrUcEiPlNSpujcR/ZpbiKIHkzYfh/nlayVjvagjB7VwSlVqICR/8zsjxJePsk19OIs8yvWj+7WF7fzZqFCBoWe3ZGgHPH+bDvvEHoRHQfZlO2/bW0IDW1TAS51
 > You can decrypt this encrypted text using [Decryptor](https://GitHub.com/focuscrypt/decryptor).
